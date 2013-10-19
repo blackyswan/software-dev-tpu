@@ -1,4 +1,4 @@
 software-dev-tpu
 ================
 
-test repo for тхяпо
+repo for тхяпо
